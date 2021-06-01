@@ -18,7 +18,7 @@
 
 Test names must not be changed. All new test files should increment the latest number.
 But if we need to insert some test in the middle of the order - we also have to increment
-all the tests after it. Which is unacceptable. To avoid this we are using `order.txt` file,
+all the tests after it, which is unacceptable. To avoid this we are using `order.txt` file,
 that allows us to print tests in any order we want.
 
 ## License
